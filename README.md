@@ -1,2 +1,2 @@
 # ztm-pytorch
-Projects in STM PyTorch Bootcamp
+Projects in ZTM PyTorch Bootcamp
